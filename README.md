@@ -17,7 +17,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanax01&show_icons=true&locale=en">
 
-<h3 align="center"> Languages And Tools Im Learning </h3>
+<h3 align="center"> Languages And Tools Im Learning/New To </h3>
 <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="85" height="85">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png" width="85" height="85">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP5KTNtwE18A_XpYzFj5Usn-x2j0ZsyED2A&amp" width="85" height="85">
