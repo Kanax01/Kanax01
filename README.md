@@ -16,16 +16,8 @@
 <p align="left"> <a href="https://github.com/github-profile-trophy/"> <img src="https://github-profile-trophy.vercel.app/?username=Kanax01"></a> </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanax01&show_icons=true&locale=en">
-
-<h3 align="center"> Languages And Tools Im Learning/New To </h3>
-<p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="85" height="85">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png" width="85" height="85">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP5KTNtwE18A_XpYzFj5Usn-x2j0ZsyED2A&amp" width="85" height="85">
-
-  
-</p>
-
-<h3 align="center"> Languages And Tools I Know</h3>
+<p></p>
+<h3 align="center"> Languages And Tools</h3>
 <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="85" height="85">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="85" height="85">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGT_pnMHJdps9fGjcDaFSqcfFxO2E7BQk4g&amp;s" width="85" height="85">
@@ -34,10 +26,13 @@
 <img src="https://github.com/user-attachments/assets/1a4f940b-3450-4fca-a32d-e1126bcd3a57" width="85" height="85">
 <img src="https://github.com/user-attachments/assets/318840c0-528f-443b-8866-4623583da58f" width="85" height="85">
 <img src="https://github.com/user-attachments/assets/06b6b08b-7902-4d22-be75-ee9be1c5e04e" width="85" height="85">
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="85" height="85">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png" width="85" height="85">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP5KTNtwE18A_XpYzFj5Usn-x2j0ZsyED2A&amp" width="85" height="90">
+<img src="https://github.com/user-attachments/assets/0d6f5f6f-6302-4a40-83f1-c38b1f9700e6" width="85" height="85">
 <div align="center">
-<img src="Assets/kanax01.png">
-<p></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanax01&show_icons=true&locale=en&layout=compact" alt="kanax01" />
+<p>
+<img align="center" src="Assets/kanax01.png">
 <p3> Nothing To See Down Here :) </p3>
 </div>
