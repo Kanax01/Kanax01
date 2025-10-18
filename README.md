@@ -30,8 +30,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png" width="85" height="85">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP5KTNtwE18A_XpYzFj5Usn-x2j0ZsyED2A&amp" width="85" height="90">
 <img src="https://github.com/user-attachments/assets/0d6f5f6f-6302-4a40-83f1-c38b1f9700e6" width="85" height="85">
+<img width="85" height="85" src="https://github.com/user-attachments/assets/1af727d7-55b3-43b2-93ca-5d6eae9852d4">
+
+
+
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanax01&show_icons=true&locale=en&layout=compact" alt="kanax01" />
 <p>
 <img align="center" src="Assets/kanax01.png">
 <p3> Nothing To See Down Here :) </p3>
