@@ -1,5 +1,5 @@
 <h1 align="center"> Hello I am Kanax01</h1>
-<h3 align="center"> I am a learning developer and pen tester from long island. </h3>
+<h3 align="center"> I am a developer and pen tester from long island. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanax01&label=Profile%20views&color=0e75b6&style=flat" alt="Kanax01" /> </p>
 
 <p2 align="left"> —Reach me at 66stuff88@gmail.com </p2>
@@ -8,8 +8,10 @@
 
 <a align="left" href="https://discord.com/users/kanax01"></a>
 <img src="https://img.shields.io/badge/Discord-Kanax01-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
-  
-<p3 align="left"> —I have a dog named Buddy and he is very fluffy<p3>
+
+<a href="https://github.com/Vulcan-Security">
+<p3 align="left"> —Vulcan Security <-- My Org<p3>
+</a>
 
 <h3 align="center"> Stats </h3>
 
