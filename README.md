@@ -1,9 +1,11 @@
 <h1 align="center"> Hello I am Kanax01</h1>
 <h3 align="center"> I am a developer and pen tester from long island. </h3>
 
-<p2 align="left"> —Reach me at 66stuff88@gmail.com </p2>
+- Reach me at <strong>66stuff88@gmail.com</strong>
+  
+- Take A Look At <strong>[Vulcan Security](https://github.com/Vulcan-Security)</strong> <-- My Org Im Trying To Get Of The Ground
 
-<p2 align="left"> —Or My Discord </p2>
+- Or My Discord
 
 <a align="left" href="https://discord.com/users/kanax01">
 <img src="https://skillicons.dev/icons?i=discord">
