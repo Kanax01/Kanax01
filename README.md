@@ -3,7 +3,7 @@
 
 - Reach me at <strong>66stuff88@gmail.com</strong>
   
-- Take A Look At <strong>[Vulcan Security](https://github.com/Vulcan-Security)</strong> <-- My Org Im Trying To Get Of The Ground
+- Take A Look At <strong>[Vulcan Security](https://github.com/Vulcan-Security)</strong> <-- My Org Im Trying To Get Off The Ground
 
 - Or My Discord
 
