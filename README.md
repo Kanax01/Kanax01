@@ -21,9 +21,8 @@
 
 <h3 align="center"> Stats </h3>
 
-<p align="left"> <a href="https://github.com/github-profile-trophy/"> <img src="https://github-profile-trophy.vercel.app/?username=Kanax01"></a> </p>
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kanax01?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <p></p>
 
 <div align="center">
