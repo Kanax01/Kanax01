@@ -11,13 +11,17 @@
 <img src="https://skillicons.dev/icons?i=discord">
 </a>
 
+<div align="center">
+<h3> Languages And Tools Im Learning </h3>
+<img src="https://skillicons.dev/icons?i=swift,go">
+</div>
+
 <h3 align="center"> Languages And Tools</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,bash,kotlin,java,mysql,php,swift,arduino">
+<img src="https://skillicons.dev/icons?i=py,bash,kotlin,java,mysql,php,arduino">
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp,kali,linux,raspberrypi,vscode">
 </div>
-
 
 <h3 align="center"> Stats </h3>
 
