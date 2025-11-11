@@ -26,6 +26,10 @@
 <h3 align="center"> Stats </h3>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kanax01?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanax01&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanax01&bg_color=0c1014&color=2aa889&line=2aa889&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p></p>
 
