@@ -11,6 +11,11 @@
 <img src="https://skillicons.dev/icons?i=discord">
 </a>
 
+- Support Ukraine (image is link)
+<a href="https://war.ukraine.ua/support-ukraine/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="85" height="85">
+</a>
+
 <div align="center">
 <h3> Languages And Tools Im Learning </h3>
 <img src="https://skillicons.dev/icons?i=swift,go">
