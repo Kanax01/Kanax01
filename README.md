@@ -22,11 +22,11 @@
 </a>
 
 <div align="center">
-<h3> Languages And Tools Im Learning </h3>
+<h3> Currently Learning</h3>
 <img src="https://skillicons.dev/icons?i=swift,go">
 </div>
 
-<h3 align="center"> Languages And Tools</h3>
+<h3 align="center"> Tech Stack </h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,bash,kotlin,java,mysql,php,arduino">
