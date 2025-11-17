@@ -1,5 +1,10 @@
-<h1 align="center"> Hello I am Kanax01</h1>
-<h3 align="center"> I am a developer and pen tester from long island. </h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=500&color=67F741&center=true&vCenter=true&width=550&lines=Hi+I'm+Kanax01;Im+A+Developer+%26+Pentester;Software+Developer;Web+Developer;Networking+Enthusist;Cyber+Security+Researcher;Having+Fun+Expert)](https://git.io/typing-svg)
+
+</div>
+
+<h1></h1>
 
 - Reach me at <strong>66stuff88@gmail.com</strong>
   
