@@ -6,9 +6,7 @@
 
 <h1></h1>
 
-- Reach me at <strong>66stuff88@gmail.com</strong>
-  
-- Take A Look At <strong>[Vulcan Security](https://github.com/Vulcan-Security)</strong> <-- My Org Im Trying To Get Off The Ground
+- Reach Me At <strong>66stuff88@gmail.com</strong>
 
 - Or My Discord
 
