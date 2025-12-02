@@ -21,7 +21,7 @@
 
 <div align="center">
 <h3> Currently Learning</h3>
-<img src="https://skillicons.dev/icons?i=swift,go">
+<img src="https://skillicons.dev/icons?i=rust,go">
 </div>
 
 <h3 align="center"> Tech Stack </h3>
