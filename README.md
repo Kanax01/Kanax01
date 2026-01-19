@@ -6,9 +6,7 @@
 
 <h1></h1>
 
-- Reach Me At <strong>66stuff88@gmail.com</strong>
-
-- Or My Discord
+- Reach Me On Discord
 
 <a align="left" href="https://discord.com/users/kanax01">
 <img src="https://skillicons.dev/icons?i=discord">
