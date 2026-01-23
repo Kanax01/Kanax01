@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=2AF722&center=true&vCenter=true&width=900&height=80&lines=Hi+I'm+Kanax01;I'm+A+Networking+Enthusiast;A+Pentester;Software+Dev;Front+End+%26+Back+End+Dev+For+Web+Apps;Having+Fun+Expert)](https://git.io/typing-svg)
+# Hi Im Kanax01
 
 </div>
-
-<h1></h1>
 
 - Reach Me On Discord
 
