@@ -15,11 +15,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="85" height="85">
 </a>
 
-<div align="center">
-<h3> Currently Learning</h3>
-<img src="https://skillicons.dev/icons?i=rust,go">
-</div>
-
 <h3 align="center"> Tech Stack </h3>
 
 <div align="center">
