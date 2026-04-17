@@ -30,7 +30,7 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,bash,kotlin,java,mysql,php,arduino">
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,kali,linux,raspberrypi,vscode">
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,kali,linux,raspberrypi,vscode">
 </div>
 
 <h2 align="center"> Stats </h3>
