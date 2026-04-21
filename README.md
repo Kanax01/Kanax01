@@ -41,11 +41,7 @@
 
 <p></p>
 
-<h3 align="center"> Give a helping hand </h3>
-- Support Ukraine (image is link)
-<a href="https://war.ukraine.ua/support-ukraine/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="85" height="85">
-</a>
+#
 
 <div align="center">
 <p>
