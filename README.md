@@ -44,7 +44,5 @@
 #
 
 <div align="center">
-<p>
-<img align="center" src="Assets/kanax01.png">
 <p3> Nothing to see down here... :) </p3>
 </div>
