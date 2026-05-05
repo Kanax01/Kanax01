@@ -12,6 +12,10 @@
 - I'm a cybersecurity and networking enthusiast 💻🌐
 - I like dogs 🐶
 
+<h2 align="center"> Visit my website </h2>
+
+- [My site](https://kanax01.github.io/)
+
 <h2 align="center"> Contact me 📞 </h3>
 
 - Reach me on Discord
