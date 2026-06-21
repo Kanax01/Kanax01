@@ -12,22 +12,12 @@
 - I'm a cybersecurity and networking enthusiast 💻🌐
 - I like dogs 🐶
 
-<h2 align="center"> Visit my website </h2>
-
-- [My site](https://kanax01.github.io/)
-
 <h2 align="center"> Contact me 📞 </h3>
 
 - Reach me on Discord
 
 <a href="https://discord.com/users/kanax01">
 <img src="https://skillicons.dev/icons?i=discord">
-</a>
-
-- Reach me on Instagram
-
-<a href="https://www.instagram.com/kanaxx01/">
-<img src="https://skillicons.dev/icons?i=instagram">
 </a>
 
 <h2 align="center"> Tech Stack </h3>
@@ -40,6 +30,8 @@
 <h2 align="center"> Stats </h3>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kanax01?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanax01&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanax01&bg_color=0c1014&color=2aa889&line=2aa889&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
