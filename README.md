@@ -22,6 +22,6 @@
 
 ## Contact Me
 
-<a href="https://discord.com/users/kanax01">
+<a href="discord.com/users/1187156329538785401">
 <img src="https://skillicons.dev/icons?i=discord">
 </a>
